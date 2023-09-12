@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I grew up in New Jersey but currently my family lives in Connecticut. I went to the University of Delaware for my Bachelor of Science in Management Information Systems. After graduating, I worked at KPMG as a tech consultant for two years, and I am now attending Georgetown University for my Master of Science in Data Science and Analytics.\n\n\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={\"projection\": \"polar\"})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "I grew up in New Jersey but currently my family lives in Connecticut. I went to the University of Delaware for my Bachelor of Science in Management Information Systems. After graduating, I worked at KPMG as a tech consultant for two years, and I am now attending Georgetown University for my Master of Science in Data Science and Analytics.\n\n\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={\"projection\": \"polar\"})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Patricia Schenfeld",
+    "section": "",
+    "text": "flowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\nA Mermaid diagram"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Patricia Schenfeld",
+    "section": "Education",
+    "text": "Education\n\nGeorgetown University, MS Data Science & Analytics 1 \n\nMerit scholarship\n\\(f(x)=\\frac{e^{x^2}}{2}\\) \\[g(x)=x^n \\rightarrow \\frac{\\partial g}{\\partial x}=n x^{n-1}\\]\n\n\n\nUniversity of Delaware, BS Management Information Systems\n\nMagna Cum Laude (top 5%)\nHonors: Panel of Distinguished MIS Seniors, Dean’s List (all 8 semesters), GPA: 3.9, University of Delaware Presidential Scholarship (merit)\nStudy abroad: Australia and Thailand (Winter 2020), Switzerland and Italy (Summer 2019)"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Patricia Schenfeld",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nPython\nR\nTableau, PowerBI\nExcel\nGoogle Data Analytics Certificate (via Coursera)"
+  },
+  {
+    "objectID": "index.html#activities",
+    "href": "index.html#activities",
+    "title": "Patricia Schenfeld",
+    "section": "Activities",
+    "text": "Activities\n\nKPMG, Governance, Risk & Compliance People Connectivity Committee\nPhi Chi Theta Professional Business Fraternity, Founding Member of UD Chapter\nUniversity of Delaware Club Tennis Team\n\nGirl Scouts, Ambassador Level - Silver Award: Created/taught a music program for underserved children (Dhar 2013)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Patricia Schenfeld",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nExpected May 2025↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#education",
+    "href": "slides/slides.html#education",
+    "title": "Patricia Schenfeld",
+    "section": "Education",
+    "text": "Education\n\nGeorgetown University, MS Data Science & Analytics \nUniversity of Delaware, BS Management Information Systems"
+  },
+  {
+    "objectID": "slides/slides.html#experience",
+    "href": "slides/slides.html#experience",
+    "title": "Patricia Schenfeld",
+    "section": "Experience",
+    "text": "Experience\n\n\nRave Me Away: Finance & Business Admin Intern\nKPMG: GRC Advisory Associate"
+  },
+  {
+    "objectID": "slides/slides.html#technical-skills",
+    "href": "slides/slides.html#technical-skills",
+    "title": "Patricia Schenfeld",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nPython\nR\nTableau, PowerBI\nExcel\nGoogle Data Analytics Certificate (via Coursera) (Van Der Aalst and Aalst 2016)"
+  },
+  {
+    "objectID": "slides/slides.html#code-example",
+    "href": "slides/slides.html#code-example",
+    "title": "Patricia Schenfeld",
+    "section": "Code Example",
+    "text": "Code Example\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={\"projection\": \"polar\"})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\n\nVan Der Aalst, Wil, and Wil van der Aalst. 2016. Data Science in Action. Springer."
+  }
+]

@@ -1,0 +1,58 @@
+---
+title: "Patricia Schenfeld"
+---
+![](images/headshot.jpeg){width=250}
+
+## Education 
+
+#### Georgetown University, MS Data Science & Analytics [^1] ![](images/gu.jpeg){width=100}
+
+* Merit scholarship
+* $f(x)=\frac{e^{x^2}}{2}$
+$$g(x)=x^n \rightarrow \frac{\partial g}{\partial x}=n x^{n-1}$$
+
+#### University of Delaware, BS Management Information Systems
+* Magna Cum Laude (top 5%)
+* Honors: Panel of Distinguished MIS Seniors, Dean’s List (all 8 semesters), GPA: 3.9, University of Delaware Presidential Scholarship (merit)
+* Study abroad: Australia and Thailand (Winter 2020), Switzerland and Italy (Summer 2019)
+
+::: {layout-ncol=2}
+## Technical Skills
+
+- Python
+- R 
+- Tableau, PowerBI
+- Excel
+- Google Data Analytics Certificate (via Coursera)
+
+## Activities
+
+- KPMG, Governance, Risk & Compliance People Connectivity Committee	
+- Phi Chi Theta Professional Business Fraternity, Founding Member of UD Chapter
+- University of Delaware Club Tennis Team	
+- Girl Scouts, Ambassador Level - Silver Award: Created/taught a music program for underserved children [@dhar2013data]
+
+:::
+
+```{mermaid}
+%%| fig-cap: "A Mermaid diagram"
+%%| code-fold: false
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
+
+
+{{< video https://www.youtube.com/watch?v=guuYU74wU70 >}}
+
+> "With great power comes great responsibility"
+
+[^1]: Expected May 2025
